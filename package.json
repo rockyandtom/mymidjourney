@@ -1,0 +1,25 @@
+{
+  "name": "midjourney-inspiration-gallery",
+  "version": "1.0.0",
+  "description": "A beautiful, responsive single-page website for sharing and exploring AI-generated Midjourney images with their prompts",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve",
+    "dev": "npx serve"
+  },
+  "keywords": [
+    "gallery",
+    "midjourney",
+    "ai-art",
+    "prompts",
+    "inspiration",
+    "tailwind",
+    "responsive",
+    "single-page"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+} 
